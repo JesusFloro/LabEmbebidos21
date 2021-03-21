@@ -1,0 +1,3 @@
+2001/01/01 12:00:50 - Record 6 of day mon 
+2001/01/01 12:00:40 - Record 5 of day mon 
+2001/01/01 12:00:30 - Record 4 of day mon 
